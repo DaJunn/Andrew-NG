@@ -1,2 +1,2 @@
 # deeplearning.ai
-This repository is used to record the history of learning ai, Our journey to the stars and the sea.
+如果可以的话，帮我点个STAR，什么样的感觉。
